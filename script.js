@@ -112,8 +112,8 @@ return message
 
 }
 
-let player1 = new Player('Dominykas', 100, 10);
-let player2 = new Player('Kevinas', 100, 10);
+let player1 = new Player('Player 1', 100, 10);
+let player2 = new Player('Player 2', 100, 10);
 
 let p1 = player1;
 let p2 = player2;
