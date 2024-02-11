@@ -37,7 +37,8 @@ This project focuses on creating a basic fighting game using JavaScript. The gam
 2. Press `P` to make Player 2 attack or `L` to heal.
 3. Observe health updates after each action.
 4. Hear victory sounds when a player wins.
-5. Click the "Simulate" button to start a new match.
+5. Click the "Simulate" button to get a random winner.
+6. Click the "Reset" button to start a new match.
 
 ## Code Structure 🧱
 
