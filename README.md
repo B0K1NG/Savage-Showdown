@@ -16,7 +16,6 @@ This project focuses on creating a basic fighting game using JavaScript. The gam
 
 ## Tech Stack 💻
 
-- Visual Studio Code
 - HTML
 - CSS
 - JavaScript
