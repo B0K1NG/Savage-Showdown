@@ -1,24 +1,3 @@
-// ** Grabs elements from the DOM and stores them into variables. Line: 22 **
-
-// ** Checking if either players health is  0 and if it is, then updating isOver to true. Line: 30 **
-
-// ** Player class which can create a player with all it's attributes and methods. Line: 46 **
-
-// ** Attacking an Enemy with a Random Attack Bonus. Line: 55 **
-
-// ** Simulates the whole match untill one player runs out of health. Line: 101 **
-
-// ** Players Names, Health, Attack-Damage. Line: 115 **
-
-// ** Player 1 Controls. Line: 130 **
-
-// ** Player 2 Controls. Line: 147 **
-
-/*
--------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
- */
-
 let playButton = document.getElementById('play')
 let resultDiv = document.getElementById('result')
 let p1NameDiv = document.getElementById('p1Name')
