@@ -2,6 +2,8 @@
 
 Welcome to the JavaScript Fighting Game – a simple browser-based fighting game where two players battle it out! ⚔️🎮
 
+[![Savage Showdown.png](https://i.postimg.cc/wxn6SXZv/image.png)](https://postimg.cc/NL7qXHgq)
+
 ## Overview 📝
 
 This project focuses on creating a basic fighting game using JavaScript. The game includes player classes, game simulation, health tracking, and interactive controls. Explore JavaScript fundamentals such as classes, functions, DOM manipulation, event listeners, and conditional statements while building this project.
